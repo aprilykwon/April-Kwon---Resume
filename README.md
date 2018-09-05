@@ -37,13 +37,28 @@ Sushi Roll Chef and Server
 
 * **Coach**  
 Retail Sales Associate  
-3000 184th St SW, Lynnwood, WA 98037 (Closed)  
+3000 184th St SW, Lynnwood, WA 98037
 2012 to 2013
 
 * **Garda Cash Logistics**  
 Cash Vault cashier  
-1401 E Yesler Way, Seattle, WA 98122 
+1401 E Yesler Way, Seattle, WA 98122
 2011 to 2012
+
+* **Bank of America**
+Senior Merchant Teller
+1309 4th Ave, Seattle, WA 98101
+2007 to 2011
+
+* **Dippin' Dots - Ice Cream Store**
+Server/Cashier
+3301 W Main St, Norman, OK 73072
+2004-2007
+
+* **Tong's Kitchen - Chinese Restaurant**
+Hostess/Server/Cashier
+808 E Main St Suite B, Ada, OK 74820
+2003 to 2007 (Seasonal)
 
 ### Education
 
