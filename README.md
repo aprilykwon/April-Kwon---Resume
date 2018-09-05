@@ -7,7 +7,7 @@
 
 ### Overview
 
-I am applying to Ada Developers Academy with the hopes of not only learning how to program, but also becoming an effective member of a team, learning management skills, and becoming a successful woman in a male dominated field. I know Ada will appreciate my passion for gender equality and compassion, as well as the various other perspectives I can offer the classroom as a mixed-race, queer woman.
+I am applying to Ada Developers Academy to knock down my personal fear of failure, and to really apply myself to build a better skillset for future careers. I want to learn how to work better in a team environment (supporting others, asking for help). I know I can learn so much from Ada, and also offer perspectives as an Asian woman growing up in middle-America. I am excited to work with others at Ada, and help to foster a creative, diverse, and supportive environment. 
 
 
 ### Programming and Computer Software Skills
@@ -17,7 +17,7 @@ I am applying to Ada Developers Academy with the hopes of not only learning how 
 * Beginning knowledge of Ruby, Python, Javascript
 
 
-###Goals
+### Goals
 * To build on a skillset that allows me to appeal to companies in my field of interest (Gaming and Web-design)
 * To have a career where I am financially independent, and can contribute to my personal needs as well as organizations/causes I want to support
 * To be a successful woman in a position of authority, to open doors for others who may never had the privileges to do so
@@ -60,6 +60,8 @@ Cash Vault cashier
 
 * Freelance comic art
 * Food photography
-* Looking at cat and dog memes
+* Browsing through cat and dog memes
 * String instruments (learning them)
 * Costuming and sewing crafts
+* Playing JRPGs and survival horror games on various consoles
+* Learning foreign languages (Japanese, Spanish, French, and Korean)
