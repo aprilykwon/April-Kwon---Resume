@@ -37,8 +37,8 @@ Sushi Roll Chef and Server
 
 * **Coach**  
 Retail Sales Associate  
-3000 184th St SW, Lynnwood, WA 98037
-2012 to 2013
+3000 184th St SW, Lynnwood, WA 98037  
+2012 to 2013  
 
 * **Garda Cash Logistics**  
 Cash Vault cashier  
