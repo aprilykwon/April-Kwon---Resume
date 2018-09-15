@@ -11,7 +11,7 @@ I am applying to Ada Developers Academy to knock down my personal fear of failur
 
 
 ### Programming and Computer Software Skills
-* Basic knowledge of HTML, the Command Line, and avid Macbook and iOS user
+* Basic knowledge of HTML, the Command Line, avid Macbook and iOS user
 * Utilizing Microsoft Excel and Word in a video game testing facility (3+ years)
 * Logging bugs and troubleshooting issues/errors (also in a video game testing facility, 3+ years)
 * Beginning knowledge of Ruby, Python, Javascript
