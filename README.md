@@ -1,26 +1,25 @@
 # April Kwon
 >
->22803 44th Ave W Ste B5, Mountlake Ter, WA 98043  
+>23826 24th Dr. SE, Bothell, WA 98021 
 >yura.kwo@gmail.com  
 >(206) 605-4974 
 >
 
-### Overview
-
-I am applying to Ada Developers Academy to knock down my personal fear of failure, and to really apply myself to build a better skillset for future careers. I want to learn how to work better in a team environment (supporting others, asking for help). I know I can learn so much from Ada, and also offer perspectives as an Asian woman growing up in middle-America. I am excited to work with others at Ada, and help to foster a creative, diverse, and supportive environment. 
-
-
-### Programming and Computer Software Skills
-* Basic knowledge of HTML, the Command Line, avid Macbook and iOS user
-* Utilizing Microsoft Excel and Word in a video game testing facility (3+ years)
-* Logging bugs and troubleshooting issues/errors (also in a video game testing facility, 3+ years)
-* Beginning knowledge of Ruby, Python, Javascript
-
-
 ### Goals
-* To build on a skillset that allows me to appeal to companies in my field of interest (Gaming and Web-design)
-* To have a career where I am financially independent, and can contribute to my personal needs as well as organizations/causes I want to support
-* To be a successful woman in a position of authority, to open doors for others who may never had the privileges to do so
+* To be financially independent and be able to give back to my supporters and the community
+* To continually advance in the tech world (be in a career where I am always learning and improving)
+* To be a part of a diverse community where I can learn about and help people from all walks of life
+
+### Coding and Relevant Experience
+Ada's Jumpstart Program 100% Completion
+Thinkful Seminar: Intro to Github (Git & Github: Your Coding Safety Net) February 26th 2019
+Thinkful Webinar | Free Crash Course: JavaScript Fundamentals June 11th 2019
+Thinkful Webinar | Intro to JavaScript: Build a Virtual Pet August 21 2019
+www.codecademy.com Learn the Command Line 100% Completion
+www.codecademy.com Intro to HTML 30% Completion
+www.codecademy.com Intro to Javascript 100% Completion
+www.codecademy.com Intro to Web Development 10% Completion
+
 
 
 ### Work Experience
@@ -75,8 +74,7 @@ Hostess/Server/Cashier
 
 * Freelance comic art
 * Food photography
-* Browsing through cat and dog memes
 * String instruments (learning them)
 * Costuming and sewing crafts
-* Playing JRPGs and survival horror games on various consoles
+* Console gaming (PS4, Switch, Xbox One)
 * Learning foreign languages (Japanese, Spanish, French, and Korean)
