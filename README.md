@@ -11,14 +11,14 @@
 * To be a part of a diverse community where I can learn about and help people from all walks of life
 
 ### Coding and Relevant Experience
-Ada's Jumpstart Program 100% Completion
-Thinkful Seminar: Intro to Github (Git & Github: Your Coding Safety Net) February 26th 2019
-Thinkful Webinar | Free Crash Course: JavaScript Fundamentals June 11th 2019
-Thinkful Webinar | Intro to JavaScript: Build a Virtual Pet August 21 2019
-www.codecademy.com Learn the Command Line 100% Completion
-www.codecademy.com Intro to HTML 30% Completion
-www.codecademy.com Intro to Javascript 100% Completion
-www.codecademy.com Intro to Web Development 10% Completion
+* Ada's Jumpstart Program 100% Completion
+* Thinkful Seminar: Intro to Github (Git & Github: Your Coding Safety Net) February 26th 2019
+* Thinkful Webinar | Free Crash Course: JavaScript Fundamentals June 11th 2019
+* Thinkful Webinar | Intro to JavaScript: Build a Virtual Pet August 21 2019
+* www.codecademy.com Learn the Command Line 100% Completion
+* www.codecademy.com Intro to HTML 30% Completion
+* www.codecademy.com Intro to Javascript 100% Completion
+* www.codecademy.com Intro to Web Development 10% Completion
 
 
 
